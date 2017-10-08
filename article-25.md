@@ -10,7 +10,6 @@
   <li>Hospitalization: Most PWDs need special spatial arrangements, equipment, and personnel assistance during hospitalization. Such resources are currently limited. For example, wheelchair users need larger hospital rooms, which increases the financial burden of hospitalization on them since the National Health Insurance currently does not provide for accessible hospital rooms. A PWD will therefore need to pay out-of-pocket cost for a single or double room. Patients with serious scoliosis who lie down for long periods require air mattresses to reduce pressure and prevent bed sores and other conditions from developing. PWDs with weak muscles regularly face difficulties in operating hospital emergency call buttons and are unable to seek help from medical personnel in a timely manner. Hospital rooms that only provide seated shower seats and access chairs are inaccessible to persons who are unable to adopt suitable postures. Bathing and the use of toilet facilities present another major challenge. According to current regulations, PWDs are unable to apply for community support service personnel (such as residential services and personal assistant services) to provide support during hospitalization. This seriously affects the rights of PWDs to health and quality of life.</li>
 
   <li>We recommend:
-
     <ol>
       <li>Hospitals should ensure that waiting rooms, consultation rooms, instruments, and equipment meet the needs of PWDs. These include wheelchair accessible, access assisted changing rooms as well as separate and quiet waiting rooms for the use of PWDs who require emotional stability.</li>
 
@@ -65,7 +64,6 @@
   <li>Sexual rights are universal human rights, but the sexual rights of PWDs are often ignored: The State Report only emphasizes efforts at preventing sexually transmitted diseases (STDs), but has yet to adopt active attempts to recognize, promote, respect, and protect the sexual rights of PWDs. According to the 2011 Assessment Report on the Conditions and Needs of PWDs, 48.47% of PWDs have spouses or live-in partners. This data allows the presumption that slightly less than half PWDs have regular sex partners and sex lives. PWD service organizations in Taiwan have long distanced themselves from discussing the sexual rights of PWDs. It was not until 2013 when two gay activists (one of them a PWD) started ‘Hand Angels’, an organization that facilitate volunteer providing masturbation services to people with severe disabilities, that the call of ‘sexual rights is human rights’ was brought to realization for PWDs.</li>
 
   <li>Recommendation:
-
     <ol>
       <li>The Government should produce additional chapters on PWDs in sex and sexuality education curricula in schools, acknowledging the importance of sexual rights for PWDs. Additionally, the Government should increase personalized assistance and services relating to sexual needs based on age, gender, and other factors in current PWD benefits and services.</li>
 

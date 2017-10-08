@@ -8,7 +8,6 @@
   <li>Inadequate subsistence protections for PWDs under incarceration: According to Article 4 of the “Management of Subsistence Assistance Fund Disbursements to Persons with Disabilities,” financial assistance payments cease once a PWD is “sentenced to prison, detained for case investigation, or legally detained.” As families on financial assistance are already economically vulnerable and labor and living conditions in current correctional facilities are very poor , incarcerated convicts may have to depend even more on support from relatives and friends or illegally work to afford daily items. Correctional facilities also do not offer many opportunities for PWDs to learn appropriate life skills that help them reintegrate in society upon release. Ceasing subsistence-level financial assistance to imprisoned PWDs creates severe negative consequences for individuals and families. Many families in such situations are forced to go into debt or sell personal property to make up for their financial shortfalls.</li>
 
   <li>Recommendations to the Government:
-
     <ol>
       <li>Older PWD applicants for Government financial assistance (such as for assistive devices, personnel support, rental assistance) should have their assets and income calculated separately from those of their family members to facilitate economic independence and independent living. See Article 19, Paragraph 149.</li>
 

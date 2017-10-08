@@ -14,7 +14,6 @@
   <li>We observe that due to the myth of a ‘golden window for cure’, many children who were judged as being slow in their development have long experienced tremendous physical and psychological stress and pain while receiving early intervention. Therefore, we have some doubt as to what medical experts have considered as ‘progress’. If a child needs to undergo such great stress in treatment in order to meet the standards of ‘progress’ as defined by the adults, we question if this is keeping the best interests of the child as primary consideration as required by Article 7(2) of the CRPD.</li>
 
   <li>We recommend:
-
     <ol>
       <li>Once a child’s disability has been diagnosed and identified as such, the State should initiate a mechanism of communication chain, involving the departments of household registration, social affairs, health, police, and education, in order to establish a comprehensive reporting and referral mechanism, to ensure that children with disabilities will all receive the care, assistance and support as they should receive during each stage of their growth and development.</li>
 

@@ -8,7 +8,6 @@
   <li>The amount of financial assistance is low, but the cost of assistive devices remains high: Even if a PWD receives financial assistance, the amount is calculated using a proportion of the fixed price for a particular item. Many of the higher-quality assistive devices available on the market remain unaffordable to PWDs as their pricing are above the recommended price required under current financial assistance rules. Taking persons with hearing disabilities as an example, a good set of hearing aids can reduce up to 70% of the obstacles in daily life. However, a hearing aid for one ear alone costs NT40,000, which is equivalent to three or four months’ disposable income for lower to lower middle-income family. In comparison, electronic ears cost upward of NT one million, putting it out of reach for families without a high level of economic ability.</li>
 
   <li>Recommendations
-
     <ol>
       <li>The Government should expand the eligibility criteria for financial assistance applications for the categories of assistive devices listed under the “Basic Subsidy Standards Table for Aid Expenditures by Persons with Disabilities” as well as the upper limit for financial assistance. The Government should also strengthen its ability to assess the physical conditions of individual PWDs, their lifestyles, environments, and individual needs. The Government should include concepts of preventive health care into its regulatory considerations to facilitate adequate provision of assistive devices.</li>
 
@@ -27,7 +26,6 @@
   <li>In reference to aids schools provide to students with disabilities, see Article 9 Paragraphs 63 of this Report.</li>
 
   <li>Recommendations:
-
     <ol>
       <li>As well as providing support for the livelihoods of low and medium-low income households, the Government should also consider the special needs of children with disabilities for assistive devices in the process of growing up. To reduce the economic burden for families the Government can broaden financial assistance categories and amount based on age. To raise the practicality of assistive devices suitable for children with disabilities, the Government can recognize commercial firms for innovation in assistive devices for children.</li>
 

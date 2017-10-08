@@ -6,7 +6,6 @@
   <li>The Central Election Commission has been slow in responding to demands by civil society for reform. As many PWDs face a range of obstacles in going to polling stations, they simply decide to forego voting--their most basic right of political participation. Many polling stations around the country have tables and chairs that are too high for PWDs and do not provide support for assistive devices. Moreover, as the polling day itself tends to be a non-working day when rehabilitation buses do not run, PWDs who are working or going to school outside their registered constituencies face difficulties in returning to vote. Even when a PWD has a family member accompany them to vote, this often violates the principle of voting secrecy and makes the PWD unable to freely cast a vote of their choice.</li>
 
   <li>We recommend that the government should:
-
     <ol>
       <li>Public information relating to elections (including public election bulletins published by the Central Election Commission, news, press briefings, and presentation of political views by candidates) should be made accessible to persons with disabilities. This includes the provision of voice broadcasts, Braille publications, sign language translators, and live closed captioning etc.</li>
 

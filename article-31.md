@@ -20,7 +20,6 @@
   <li>Both the collection of data and the IBSA tool mentioned in this article require competence in the field of human rights statistics. In fact, during the past few years, human rights groups repeatedly requested the Directorate-General of Budget, Accounting and Statistics to train the personnel from statistical offices on skills of human rights statistics. They also requested the office to make thorough investigations on the methods of categorization, collection and analysis for demographical data regarding official statistics and administrative surveys, in hopes of generating quality statistical data on human rights while respecting the privacy and dignity of citizens. The Directorate-General, however, never agreed to comply on the grounds of political obstacles. In view of the above, it is clear that the State lacks not only an integral human rights policy since the enactment of the Two Covenants in 2009, but also the political will to lay the foundations for human rights work.</li>
 
   <li>Specific recommendations for the government regarding the abovementioned issues are as follows:
-
     <ol>
       <li>The government should conduct censuses to obtain disability prevalence, and to determine the reasons for not holding a disability card or any other certificates, while regarding all PWDs among the total population as the target population on which human rights statistics and indicators will be based.</li>
 

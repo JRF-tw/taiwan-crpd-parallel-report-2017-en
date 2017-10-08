@@ -16,7 +16,6 @@
   <li>Higher education (tertiary institutions level): Apart from the usual avenues for entering higher education, the government is to conduct ‘admission examinations for enrolment of students with disabilities to tertiary institutions’, by providing additional places. However, individual institutions still decide on their own whether to open up enrolment, the number of additional places and target groups (with disabilities or not); they are not completely open and also restricted by several conditions. For example, the enrolment regulations would clearly write: “Those who wish to engage in teaching work upon graduation, should apply to study professional education courses in accordance with regulations of our school, and should consider factors relating to teaching: being able to move freely in the classroom, being able to operate teaching equipment or devices required for assessment, as well as possessing effective two-way communication abilities in listening and speaking”; “courses in our department is based mainly on verbal teaching, and places emphasis on communication, comprehension and expression skills, please consider carefully”; or they may stress that “courses in this faculty in performance, directing and movements, also often involve physical movements, hence students who have problems in mobility are advised to consider carefully”; “this faculty is situated on a slope, please take into consideration any problem in accommodation”. All this would constitute what Paragraph 18 in General Comments No 4 of the Convention terms as ‘indirect exclusion’.</li>
 
   <li>In accordance with Paragraphs 37, 38, 40, and 41 of the CRPD General Comment No 4, we recommend：
-
     <ol>
       <li>The State should not maintain separate education systems for mainstream and special or segregated education. It should instead consolidate the overall aims of the Convention, to reexamine and set out a timeline, in order to continuously, gradually and fully realize the various rights of all students under the education system including those students with disabilities.</li>
 
@@ -59,7 +58,6 @@
 
 <ol start="181">
   <li>Schools at pre-university level or below in our state may have provided teachers’ assistants and assistants for special education students, in order to help students with disabilities in learning to cope with life in school, but the following problems remain:
-
     <ol>
       <li>Service of assistant personnel is based on degree of students’ disabilities instead of demand: Teachers’ assistants provide services to students with moderate disabilities, whereas assistants for special education students are targeted at students of severe and multiple disabilities. Service is therefore provided based on the severity of students’ disabilities instead of based on actual needs in accordance with Individualized Education Program (IEP).</li>
 

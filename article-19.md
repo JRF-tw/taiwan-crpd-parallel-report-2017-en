@@ -14,7 +14,6 @@
   <li>Limitations in Service Content: Most assistive devices are expensive and Government-provided personnel services have many restrictions attached, making support for truly independent living by PWDs in the community difficult. For example, financial assistance for Government-approved personal assistants are too low, while sign language translation services are only open to application through specially designated programs. Such conditions make it hard to meet the varied needs coming from different aspects of routine daily life. Residential services do not include assistance to PWDs for bathing, application of medicine, food preparation, and other basic daily needs. To facilitate vacation-time and avoid complications, service agencies are often unwilling to arrange service personnel shifts at night and during state-designated public holidays. The Government has yet to exercise its proper responsibility for oversight and willfully ignores the situation. Moreover, given that existing rules stipulate that pay for such services during nights and public holidays must double, PWDs are often forced to drop service instead.</li>
 
   <li>Recommendations
-
     <ol>
       <li>Since the Government initiated the “independent living support service” for PWD, statistics regarding its implementation, such as the budget used and the number of people served, are dispersed among the local offices of social welfare. According to professor Chou Yueh-Ching and the survey by the Peace Foundation, only 0.025% of PWD are in use of personal assistant in Taiwan. The Ministry of Health and Welfare should collect and release the official statistics as soon as possible and show the rate of PWD utilizing the support services.</li>
 
@@ -37,7 +36,6 @@
   <li>Government-run public housing: The proportion of Government-provided public housing is inadequate, rentals are high, and locations out of the way. There are many barriers and obstacles in these housing units and their surroundings, which make them unfavorable to PWDs.</li>
 
   <li>Recommendations to the Government:
-
     <ol>
       <li>To fully implement Articles 53 and 54 of the “Housing Act” to ensure equal rights to housing for PWDs, the Government should amend related rules and regulations or approaches to managing financial assistance in order to protect the rights of PWDs to live in a community.</li>
 

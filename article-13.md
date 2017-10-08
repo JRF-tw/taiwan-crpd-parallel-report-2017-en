@@ -6,7 +6,6 @@
   <li>Article 8 of the “Implementation Act” requires the State to provide legal services to PWDs “in accordance with the law” when they seek remedies for violations of their rights. However, the current legal system only provides such service to persons with mental disabilities and other designated disabilities during criminal proceedings. According to the national “Legal Aid Act,” legal aid is first made available to those who are “structural, mental, and intellectually damaged or incomplete, unable to give complete declarations, and have not appointed legal counsel during investigation and trial; or have not appointed any agent during trial, but one is deemed necessary by the judge.” PWDs other than those with psychiatric or intellectual disabilities cannot seek legal aid if they are unable to meet other legal criteria (such as having no financial ability or indigenous status). According to national regulations on judicial procedures, only the “Code of Criminal Procedure” is the only available law on judicial procedure that requires mandatory defense for persons with intellectual or psychosocial disabilities. There is no such legal requirement for administrative and civil proceedings. Consequently, there is doubt whether intellectually disabled persons with intellectual or mental disabilities can invoke the “Legal Aid Act” and receive legal aid in administrative and civil proceedings.</li>
 
   <li>We maintain that the current implementation of the “Legal Aid Act” as applied to PWDs is unable to ensure the right of access to the legal process and recommend that the Government conduct a comprehensive review with a view to reforming the Act.
-
     <ol>
       <li>Expand the scope of legal aid applicability in legal procedures to ensure access to the legal process. Legal aid should be comprehensively available in areas of civil and administrative litigation and non-litigation proceedings beyond criminal and juvenile criminal cases.</li>
 
@@ -25,7 +24,6 @@
   <li>The need for accommodation reflects the fact that legal procedures or conventions may be incompatible with the practical needs of individual PWDs. Therefore, apart from reviewing, amending litigative powers under the current legal procedures, and regulations on the ability to stand trial, there is an imperative to explore accommodation in legal procedures relating to surveillance, investigation, and litigation to account for the needs of individual PWDs. The following situations often occur in practice under the existing legal system: Before a PWD appears in court, the court does not prepare accessible information beforehand. Such services are also not provided during the litigation counselling window. Only when a court session starts is there a realization that there is a need for sign language interpretation, electronic files, easy-to-read versions of instructional documents, or readers. Consequent hasty efforts to seek assistance are unable to fully provide accessible information and do not allow equal and effective legal protections.</li>
 
   <li>The Government needs to explain:
-
     <ol>
       <li>Are there statistical data on the number and content of various litigation cases brought by PWDs to the courts?</li>
 
@@ -40,7 +38,6 @@
   </li>
 
   <li>Recommendations to the Government
-
     <ol>
       <li>Comprehensively review and amend litigation powers, regulations on the ability to stand trial in existing legal procedures to enable PWDs to have sufficient support to participate in all legal processes.</li>
 
@@ -63,7 +60,6 @@
   <li>Once the investigation process and trial procedures begin, current legislation does not permit prosecutors or the courts to halt investigations to ascertain competency to stand trial even if a person with intellectual disabilities was differentially treated during interviews. Instead, legislation permits prosecutors to use investigation conclusions drawn from the person in question during interviews conducted under limited ability, and conduct investigations and raise charges in ways that are disadvantageous to the suspect.</li>
 
   <li>Recommendations to the Government:
-
     <ol>
       <li>Amend the law to establish a system for mental health professionals to act as support persons for the persons with intellectual or psychosocial disabilities and to ensure that interviews, trials, inquiries, and investigations do not take place without the presence of these support persons or legal counsel. This is to prevent PWDs from receiving discriminatory treatment.</li>
 
@@ -92,7 +88,6 @@
 
 <ol start="117">
   <li>The Government should implement Article 13(2) of the CRPD to promote appropriate training: Even though judges and prosecutors receive related training, this training is neither obligatory nor compulsory. There are few classes available and they lack cooperation with PWD organizations. Whether public defenders, lawyers, law enforcement officers, social workers, medical practitioners, and prison officers receive similar training is unclear. Therefore, the Government should explain whether it has planned or opened obligatory, compulsory, and periodic training sessions to ensure that the aforementioned professionals all receive training.
-
     <ol>
       <li>Strengthen basic familiarity with the CRPD and mental, emotional and intellectual disabilities among legal practitioners, including judges, prosecutors, and lawyers. Establish large- and medium-sized medical facilities for psychiatric, emotional, and intellectual disability within the jurisdiction of each court and police department to provide timely informational services that address questions pertaining to psychiatric disorders and interviews. This can help the respective jurisdictions establish standardized work flows and service networks among psychologists and psychiatrists to support interviews of relevant parties. Once it is ascertained that a party is a person with psychiatric disability, all inquiries and investigations should cease immediately.</li>
 
