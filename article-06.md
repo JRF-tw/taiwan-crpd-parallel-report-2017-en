@@ -50,5 +50,11 @@
 <ol start="34">
   <li>In recent years, while the government has actively promoted the one-third gender principle to executive committees from various organizations in order to increase women representation in all areas of governance, women with disabilities remain sidelined. Specific requests were made in the Gender Equality Policy Guidelines for all relevant parties, including the gender equality task force, the Municipal Women's Rights Council and gender equality advocacy groups, to increase the representation and participation in governance and policy-making of women and LGBTQ people who are from the indigenous group, new immigrants, in older age, with disabilities, in employment and from the agricultural and remote areas. However, with the exception of activist groups for women of disabilities, there remains little to no representation of women with disabilities in the offices of the central government and municipal councils and even organizations representing equal rights for women. There are regretfully no seats in our current legislative council who represent the interests of women with disabilities.</li>
 
-  <li>We recommend that the government consult the CRPD, as well as the General Comments and the "Incheon Strategy" presented by the United Nations Economic and Social Commission for Asia and the Pacific (ESCCAP) in 2012 to develop incentives and/or action plans encouraging active participation of women with disabilities in areas of policy-making and legislation.</li>
+  <li>We recommend that the government consult the CRPD, as well as the General Comments and the "Incheon Strategy"<sup>3</sup> presented by the United Nations Economic and Social Commission for Asia and the Pacific (ESCCAP) in 2012 to develop incentives and/or action plans encouraging active participation of women with disabilities in areas of policy-making and legislation.</li>
+</ol>
+
+-----
+
+<ol start="3">
+  <li>United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP), 2012, <a href="http://www.unescap.org/resources/incheon-strategy-%E2%80%9Cmake-right-real%E2%80%9D-persons-disabilities-asia-and-pacific" target="_blank">“Incheon Strategy to ‘Make the Right Real’ for Persons with Disabilities in Asia and the Pacific”</a>.</li>
 </ol>

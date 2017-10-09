@@ -3,7 +3,7 @@
 ### Unfriendly Medical Services Prevents PWDs from Using Medical Resources (Response to Paragraphs 190, 211, and 212 in the State Report)
 
 <ol start="190">
-  <li>Seeking Medical Treatment: The State has yet to mandate barrier-free accessibility for regular medical clinics. There are often steps to the entrance of many clinics and narrow spaces in clinics. Treatment tables also tend to have limited flexibility for adjustment. Article 24 of the People with Disabilities Rights Protection Act demands that each county and municipality designate special clinics for PWDs based on the population of PWDs and their needs. However, only dental services have currently reached the target of having at least one special clinic per county or municipality.</li>
+  <li>Seeking Medical Treatment: The State has yet to mandate barrier-free accessibility for regular medical clinics. There are often steps to the entrance of many clinics and narrow spaces in clinics. Treatment tables also tend to have limited flexibility for adjustment. Article 24 of the <em>People with Disabilities Rights Protection Act</em> demands that each county and municipality designate special clinics for PWDs based on the population of PWDs and their needs. However, only dental services have currently reached the target of having at least one special clinic per county or municipality.<sup>10</sup></li>
 
   <li>Consultation: Despite the fact that the “Regulation for Managing Special Medical Consultations for Persons with Disabilities Regulation” stipulates that hospitals need to establish procedures that are convenient for PWDs to access, but medical personnel are insufficiently familiar with the uniqueness and variety of disabilities. Moreover, the medical conditions of PWDs are often complex: They often need to attend several consultations in one visit, and do not have the physical stamina to bear long periods of waiting. There should be the provision of friendlier consultation processes for persons with severe disabilities. For example, there should be the provision of more convenient procedures for follow-up visits by PWDs who require life-support systems twenty-four hours a day. Additionally, most clinics only have one waiting room. During crowded periods, this situation can intensify anxieties among persons with emotional disabilities, while raising the risk of secondary infection among PWDs weakened by illness and already at risk of infection (especially children). Such PWDs often see their medical conditions worsen as they are unable to successfully seek treatment.</li>
 
@@ -61,7 +61,7 @@
 ### Sexual Rights of PWDs
 
 <ol start="208">
-  <li>Sexual rights are universal human rights, but the sexual rights of PWDs are often ignored: The State Report only emphasizes efforts at preventing sexually transmitted diseases (STDs), but has yet to adopt active attempts to recognize, promote, respect, and protect the sexual rights of PWDs. According to the 2011 Assessment Report on the Conditions and Needs of PWDs, 48.47% of PWDs have spouses or live-in partners. This data allows the presumption that slightly less than half PWDs have regular sex partners and sex lives. PWD service organizations in Taiwan have long distanced themselves from discussing the sexual rights of PWDs. It was not until 2013 when two gay activists (one of them a PWD) started ‘Hand Angels’, an organization that facilitate volunteer providing masturbation services to people with severe disabilities, that the call of ‘sexual rights is human rights’ was brought to realization for PWDs.</li>
+  <li>Sexual rights are universal human rights, but the sexual rights of PWDs are often ignored: The State Report only emphasizes efforts at preventing sexually transmitted diseases (STDs), but has yet to adopt active attempts to recognize, promote, respect, and protect the sexual rights of PWDs. According to the 2011 Assessment Report on the Conditions and Needs of PWDs, 48.47% of PWDs have spouses or live-in partners. This data allows the presumption that slightly less than half PWDs have regular sex partners and sex lives. PWD service organizations in Taiwan have long distanced themselves from discussing the sexual rights of PWDs. It was not until 2013 when two gay activists (one of them a PWD) started ‘Hand Angels’, an organization that facilitate volunteer providing masturbation services to people with severe disabilities, that the call of ‘sexual rights is human rights’ was brought to realization for PWDs.<sup>11</sup></li>
 
   <li>Recommendation:
     <ol>
@@ -71,3 +71,12 @@
     </ol>
   </li>
 </ol>
+
+-----
+
+<ol start="10">
+  <li>See the “<a href="http://www.ccd.gov.tw/?aid=301&pid=0&page_name=detail&iid=1812" target="_blank">Chart for Special Dental Clinics Designated by the Health Bureau in each County and Municipality</a>” issued by Ministry of Health and Welfare in 2011.</li>
+  <li>Translator’s note: for more information about the Hand Angels, please check their official website at <a href="www.handjobtw.org" target="_blank">www.handjobtw.org</a>.
+ </li>
+</ol>
+
