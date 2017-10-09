@@ -16,23 +16,23 @@ We would like to thank all participating groups for their invaluable contributio
 
 ## Participating NGOs
 
-- 台灣原住民族政策協會，Association for Taiwan Indigenous Peoples' Policies
-- 人權公約施行監督聯盟，Covenants Watch
-- 台灣身心障礙兒童權利推動聯盟，Disabled Children's Rights Advocacy Alliance in Taiwan
-- 手天使，Hand Angel
-- 民間司法改革基金會，Judicial Reform Foundation
-- 法律扶助基金會，Legal Aid Foundation
+- [台灣原住民族政策協會，Association for Taiwan Indigenous Peoples' Policies](http://atipp.blogspot.tw/)
+- [人權公約施行監督聯盟，Covenants Watch](http://covenantswatch.org.tw/)
+- [台灣身心障礙兒童權利推動聯盟，Disabled Children's Rights Advocacy Alliance in Taiwan](https://www.facebook.com/dcraat.tw/)
+- [手天使，Hand Angel](https://www.handjobtw.org/)
+- [民間司法改革基金會，Judicial Reform Foundation](https://www.jrf.org.tw)
+- [法律扶助基金會，Legal Aid Foundation](http://www.laf.org.tw/)
 - LIMA台灣原住民青年團，LIMA Taiwan Indigenous Youth Working Group
-- 新北市康復之友協會，New Taipei City Association for Mental Health Survivors (Family Group of People with Mental Illness)
-- 台北市新活力自立生活協會，New Vitality Independent Living Association
-- 台北市行無礙資源推廣協會，Taiwan Access for All Association
-- 台灣廢除死刑推動聯盟，Taiwan Alliance to End the Death Penalty
-- 台灣障礙者權益促進會，Taiwan Association for Disability Rights
-- 台灣人權促進會，Taiwan Association for Human Rights
-- 台灣超越巔峰關懷癲癇聯盟，Taiwan Epilepsy Care Alignment
-- 台灣酷兒權益推動聯盟，Taiwan Gender Queer Rights Advocacy Alliance
-- 台灣國際醫學聯盟，Taiwan International Medical Alliance
-- 台灣監所改革小組，Taiwan Task Force for Prison Reform
+- [新北市康復之友協會，New Taipei City Association for Mental Health Survivors (Family Group of People with Mental Illness)](http://www.ntcami.org.tw/ap/index.aspx)
+- [台北市新活力自立生活協會，New Vitality Independent Living Association](http://www.ciltp.artcom.tw/ap/index.aspx)
+- [台北市行無礙資源推廣協會，Taiwan Access for All Association](http://www.sunable.net/)
+- [台灣廢除死刑推動聯盟，Taiwan Alliance to End the Death Penalty](http://www.taedp.org.tw/)
+- [台灣障礙者權益促進會，Taiwan Association for Disability Rights](http://www.tadr.org.tw/)
+- [台灣人權促進會，Taiwan Association for Human Rights](https://www.tahr.org.tw/)
+- [台灣超越巔峰關懷癲癇聯盟，Taiwan Epilepsy Care Alignment](http://epilepsytw.weebly.com/)
+- [台灣酷兒權益推動聯盟，Taiwan Gender Queer Rights Advocacy Alliance](http://tgqraa.org/)
+- [台灣國際醫學聯盟，Taiwan International Medical Alliance](http://library.taiwanschoolnet.org/diplomacy2006/mdmd/index.htm)
+- [台灣監所改革小組，Taiwan Task Force for Prison Reform](http://prisonreform2012.blogspot.tw/)
 
 ## Resources
 
