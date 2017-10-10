@@ -14,6 +14,8 @@ We would like to thank all participating groups for their invaluable contributio
 
 **Taipei, Taiwan**
 
+![](cover.jpg)
+
 ## Participating NGOs
 
 - [台灣原住民族政策協會，Association for Taiwan Indigenous Peoples' Policies](http://atipp.blogspot.tw/)
