@@ -52,12 +52,12 @@
   <caption>Table 14-1 Compulsory Hospitalization Review Cases and Approval Rates</caption>
   <thead>
     <tr>
-      <th title="Field #1">Date</th>
-      <th title="Field #2">Number of cases</th>
-      <th title="Field #3">Approval</th>
-      <th title="Field #4">Reject</th>
-      <th title="Field #5">Approval rate</th>
-      <th title="Field #6">Rejection rate</th>
+      <th>Date</th>
+      <th>Number of cases</th>
+      <th>Approval</th>
+      <th>Reject</th>
+      <th>Approval rate</th>
+      <th>Rejection rate</th>
     </tr>
   </thead>
   <tbody>

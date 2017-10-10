@@ -14,39 +14,33 @@
   <caption>Table 16-1 Report on victims of domestic violence - People with disabilities (2015)</caption>
   <thead>
     <tr>
-      <th title="Field #1">Victims</th>
-      <th title="Field #2">Total</th>
-      <th title="Field #3">Male</th>
-      <th title="Field #4">FIELD4</th>
-      <th title="Field #5">Female</th>
-      <th title="Field #6">FIELD6</th>
-      <th title="Field #7">Unknown</th>
-      <th title="Field #8">FIELD8</th>
-      <th title="Field #9">National Population</th>
-      <th title="Field #10">Total</th>
-      <th title="Field #11">Male</th>
-      <th title="Field #12">Female</th>
-      <th title="Field #13">Victims</th>
-      <th title="Field #14">FIELD14</th>
+      <th rowspan="2">Victims</th>
+      <th>Total</th>
+      <th colspan="2">Male</th>
+      <th colspan="2">Female</th>
+      <th colspan="2">Unknown</th>
+      <th rowspan="2">National Population</th>
+      <th>Total</th>
+      <th>Male</th>
+      <th>Female</th>
+      <th colspan="2">Victims</th>
+    </tr>
+    <tr>
+      <th>Number of people<br />(A)</th>
+      <th>Number of people<br />(B)</th>
+      <th>Percentage<br />(B/A)</th>
+      <th>Number of people<br />(C)</th>
+      <th>Percentage<br />(C/A)</th>
+      <th>Number of people<br />(D)</th>
+      <th>Percentage<br />(D/A)</th>
+      <th>Number of people<br />(E)</th>
+      <th>Number of people<br />(F)</th>
+      <th>Total<br />(G)</th>
+      <th>Male<br />(B/F)</th>
+      <th>Female<br />(C/G)</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td> </td>
-      <td>Number of people<br/>(A)</td>
-      <td>Number of people<br/>(B)</td>
-      <td>Percentage<br/>(B/A)</td>
-      <td>Number of people<br/>(C)</td>
-      <td>Percentage<br/>(C/A)</td>
-      <td>Number of people<br/>(D)</td>
-      <td>Percentage<br/>(D/A)</td>
-      <td> </td>
-      <td>Number of people<br/>(E)</td>
-      <td>Number of people<br/>(F)</td>
-      <td>Total<br/>(G)</td>
-      <td>Male<br/>(B/F)</td>
-      <td>Female<br/>(C/G)</td>
-    </tr>
     <tr>
       <td>Total</td>
       <td>63,730</td>
@@ -102,39 +96,33 @@
   <caption>Table 16-2 Report on victims of sexual assault - People with disabilities (2015)</caption>
   <thead>
     <tr>
-      <th title="Field #1">Victim</th>
-      <th title="Field #2">Total</th>
-      <th title="Field #3">Male</th>
-      <th title="Field #4">FIELD4</th>
-      <th title="Field #5">Female</th>
-      <th title="Field #6">FIELD6</th>
-      <th title="Field #7">Unknown</th>
-      <th title="Field #8">FIELD8</th>
-      <th title="Field #9">National Population</th>
-      <th title="Field #10">Total</th>
-      <th title="Field #11">Male</th>
-      <th title="Field #12">Female</th>
-      <th title="Field #13">Victims</th>
-      <th title="Field #14">FIELD14</th>
+      <th rowspan="2">Victims</th>
+      <th>Total</th>
+      <th colspan="2">Male</th>
+      <th colspan="2">Female</th>
+      <th colspan="2">Unknown</th>
+      <th rowspan="2">National Population</th>
+      <th>Total</th>
+      <th>Male</th>
+      <th>Female</th>
+      <th colspan="2">Victims</th>
+    </tr>
+    <tr>
+      <th>Number of people<br />(A)</th>
+      <th>Number of people<br />(B)</th>
+      <th>Percentage<br />(B/A)</th>
+      <th>Number of people<br />(C)</th>
+      <th>Percentage<br />(C/A)</th>
+      <th>Number of people<br />(D)</th>
+      <th>Percentage<br />(D/A)</th>
+      <th>Number of people<br />(E)</th>
+      <th>Number of people<br />(F)</th>
+      <th>Total<br />(G)</th>
+      <th>Male<br />(B/F)</th>
+      <th>Female<br />(C/G)</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td> </td>
-      <td>Number of people<br/>(A)</td>
-      <td>Number of people<br/>(B)</td>
-      <td>Percentage<br/>(B/A)</td>
-      <td>Number of people<br/>(C)</td>
-      <td>Percentage<br/>(C/A)</td>
-      <td>Number of people<br/>(D)</td>
-      <td>Percentage<br/>(D/A)</td>
-      <td> </td>
-      <td>Number of people<br/>(E)</td>
-      <td>Number of people<br/>(F)</td>
-      <td>Total<br/>(G)</td>
-      <td>Male<br/>(B/F)</td>
-      <td>Female<br/>(C/G)</td>
-    </tr>
     <tr>
       <td>Total</td>
       <td>6,215</td>
