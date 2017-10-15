@@ -40,3 +40,7 @@ We would like to thank all participating groups for their invaluable contributio
 
 * [PDF](pdf/CRPD_Parallel-Report_CW_072017.pdf)
 
+## License
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
