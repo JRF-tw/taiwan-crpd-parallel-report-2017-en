@@ -36,12 +36,11 @@ We would like to thank all participating groups for their invaluable contributio
 - [台灣國際醫學聯盟，Taiwan International Medical Alliance](http://library.taiwanschoolnet.org/diplomacy2006/mdmd/index.htm)
 - [台灣監所改革小組，Taiwan Task Force for Prison Reform](http://prisonreform2012.blogspot.tw/)
 
-## Resources
-
-* [PDF](pdf/CRPD_Parallel-Report_CW_072017.pdf)
-* [Gitbook](https://www.gitbook.com/book/jrf-tw/taiwan-crpd-parallel-report-2017-en/)
-
 ## License
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+## Resources
+
+* [PDF](pdf/CRPD_Parallel-Report_CW_072017.pdf)
+* [Gitbook](https://www.gitbook.com/book/jrf-tw/taiwan-crpd-parallel-report-2017-en/)
