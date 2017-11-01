@@ -1,0 +1,6 @@
+*~
+*.swp
+.DS_Store
+/_book/
+/.travis/
+/node_modules/
