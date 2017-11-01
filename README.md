@@ -39,6 +39,7 @@ We would like to thank all participating groups for their invaluable contributio
 ## Resources
 
 * [PDF](pdf/CRPD_Parallel-Report_CW_072017.pdf)
+* [Gitbook](https://www.gitbook.com/book/jrf-tw/taiwan-crpd-parallel-report-2017-en/)
 
 ## License
 
